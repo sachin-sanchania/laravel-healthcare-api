@@ -91,12 +91,13 @@ cd healthcare-appointment-api
 ```
 
 
-### 1. Set up Environment Variables
+### 1. Set up Environment Variables & Run Composer Install
 
 Copy the .env.example file to .env and configure the database connection and any other environment variables as needed:
 
 ```
 cp .env.example .env
+composer install
 ```
 
 ### 3. Install Dependencies
