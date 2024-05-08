@@ -87,11 +87,11 @@ Follow these steps to set up and run the API on your local machine:
 
 ```
 git clone https://github.com/sachin-sanchania/laravel-healthcare-api.git
-cd healthcare-appointment-api
+cd laravel-healthcare-api
 ```
 
 
-### 1. Set up Environment Variables & Run Composer Install
+### 2. Set up Environment Variables & Run Composer Install
 
 Copy the .env.example file to .env and configure the database connection and any other environment variables as needed:
 
